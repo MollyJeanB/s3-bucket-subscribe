@@ -1,6 +1,6 @@
 
 {
-  "name": "echo",
+  "name": "s3subscribetest",
   "version": "1.0.0",
   "dependencies": {
     "aws-sdk": "~2"
